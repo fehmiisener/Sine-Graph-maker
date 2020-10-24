@@ -1,6 +1,5 @@
 public class sinGraph extends JApplet
-{
-    
+{  
     public void init()
     {
         setSize(900, 900);
@@ -27,5 +26,4 @@ public class sinGraph extends JApplet
         
         }
     }
-    
 }

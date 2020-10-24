@@ -1,4 +1,5 @@
-public class sinGraph extends JApplet {
+public class sinGraph extends JApplet
+{
     
     public void init()
     {
